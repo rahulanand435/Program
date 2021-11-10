@@ -1,4 +1,3 @@
-import javax.lang.model.util.ElementScanner14;
 
 public class FindFirstAndLastOccuranceOfElement {
     public static void main(String[] args) {
